@@ -9,7 +9,7 @@ NEXT_PUBLIC_API_BASE_URL=YOUR_MODUL1_URL
 NEXT_PUBLIC_API_KEY=YOUR_MODUL1_API_KEY
 ```
 
-For Install Dependencies :
+## For Install Dependencies :
 
 ```sh
 $ npm install
@@ -17,7 +17,7 @@ $ npm install
 $ yarn install
 ```
 
-To run the application Production :
+## To run the application Production :
 
 ```bash
 $ npm run build
@@ -25,7 +25,7 @@ $ npm run build
 $ yarn build
 ```
 
-To Generate Static Web :
+## To Generate Static Web :
 
 ```bash
 $ npm run export
